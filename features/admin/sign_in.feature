@@ -1,8 +1,8 @@
 @administrator_login
-Feature: Sign in to the administration
-    In order to access administration
+Feature: Sign in to the administration panel
+    In order to access administration panel
     As an Administrator
-    I want to be able to log in to the administration
+    I want to be able to log in to the administration panel
 
     Background:
         Given the store operates on a single channel in "United States"
